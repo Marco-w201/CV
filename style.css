@@ -1,3 +1,37 @@
-.header {
-    color : green;
+.header h1{
+    color: green; text-align: center;  
+}
+.header h2{
+    font-size: 0.8rem; color: black;
+    text-align: center;
+}
+.header h3{
+    font-size: 0.60rem; text-align: right;
+    color:green;
+}
+.header h4{
+    font-size: 0.44rem; text-align: right;
+    color:black;
+}
+.header h5{
+    font-size: 0.44rem; text-align: right;
+   
+}
+.header h6{
+    font-size: 0.44rem; text-align: right;
+   
+}
+.header h7{
+    font-size: 0.44rem; text-align: center;
+   
+}
+
+.header a {
+    color: #2563eb;           /* bleu lien */
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+.header a:hover {
+    color: rgb(70, 0, 128);           /* violet au survol */
 }
