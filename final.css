@@ -1,0 +1,16 @@
+.section-title {
+    color: #166534;
+    font-weight: 700;
+    border-bottom: 2px solid #166534;
+    padding-bottom: 4px;
+    margin-bottom: 12px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #4c1d95;
+}
